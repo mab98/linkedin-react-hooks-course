@@ -1,0 +1,2 @@
+useReducer takes in a function which will return some sort of state and an initial state.
+so now we can put logic inside the useReducer function instead of putting it in the setState inside the component.
